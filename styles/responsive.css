@@ -160,7 +160,7 @@
 
 }
 
-@media only screen and (min-width: 360px) and (max-width: 432px) 
+@media only screen and (min-width: 360px) and (max-width: 480px) 
   and (-webkit-min-device-pixel-ratio: 2) {
           .imgsmiudas img{
                     width: 100px;
