@@ -132,6 +132,21 @@
                     width: 90%;
           }
 
+          .contact{
+            height: 60em;
+
+  }
+  .ctncontatos{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+  }
+
+  #txtctt {
+    width: 90%;
+}
+
+
 }
 
 @media (max-width: 1010px) {
@@ -160,7 +175,7 @@
 
 }
 
-@media only screen and (min-width: 344px) and (max-width: 480px) 
+@media only screen and (min-width: 240px) and (max-width: 480px) 
   and (-webkit-min-device-pixel-ratio: 2) {
           .imgsmiudas img{
                     width: 100px;
